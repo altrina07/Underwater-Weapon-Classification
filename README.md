@@ -13,5 +13,9 @@ Results
 
 Each model was trained and tested on the laboratory data, and the performance metrics were compared. Due to confidentiality restrictions, detailed results and data cannot be shared publicly.
 
-Conclusion
+**Conclusion**: 
+
 This project demonstrates the effectiveness of various machine learning and deep learning algorithms in classifying underwater weapons. The models developed can be applied in real-world scenarios, providing reliable and accurate classification in underwater environments.
+
+
+DATASETS CAN'T BE REVEALED DUE TO CONFIDENTIALITY ISSUES.
